@@ -30,7 +30,7 @@ Official code repository for the paper:
 ## Model Zoo
 Please download models from [Google Drive](https://drive.google.com/drive/folders/12I2HtWBXHGwj_HmI-8eTD5ExzKvvxi_w?usp=drive_link).
 
-## Data preparation
+## Data Preparation
 **For COCO data**, please download from [COCO](http://cocodataset.org/#download). 
 **For CrowdPose data**, please download from [CrowdPose](https://github.com/Jeff-sjtu/CrowdPose#dataset).
 Extract them under ${YOUR_DATA_DIR}, and make them look like this:
@@ -52,7 +52,7 @@ ${YOUR_DATA_DIR}
         `-- images
 ```
 
-## Quick start
+## Quick Start
 1. Clone this repo.
 
 2. Install dependencies:
