@@ -1,0 +1,7 @@
+numpy
+einops
+opencv-python
+json-tricks
+xtcocotools
+torch>=1.13.0
+mmcv-full>=1.5.3
