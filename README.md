@@ -60,7 +60,7 @@ ${YOUR_DATA_DIR}
    pip install -r requirements.txt
    ```
 
-3. Download the pretrained backbones from [ConvNeXt-V2](https://github.com/facebookresearch/ConvNeXt-V2) and [Openmmlab](https://download.openmmlab.com/mmpose/pretrain_models/hrnet_w32-36af842e.pth), then place them in the 'pretrained' directory.
+3. Download the pretrained backbones from [ConvNeXt-V2](https://github.com/facebookresearch/ConvNeXt-V2) and **Openmmlab**[[w32](https://download.openmmlab.com/mmpose/pretrain_models/hrnet_w32-36af842e.pth), [W48](https://download.openmmlab.com/mmpose/pretrain_models/hrnet_w48-8ef0771d.pth)], then place them in the 'pretrained' directory.
             
 
 4. Training with multiple gpus:
